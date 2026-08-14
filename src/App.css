@@ -1,0 +1,16 @@
+  .app-header {
+  background: black !important;
+  display: flex !important;
+  font-size: 14px !important;
+}
+
+.app-title {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: block;
+}
+
+h1{
+  font-size: 1.8em;
+}
